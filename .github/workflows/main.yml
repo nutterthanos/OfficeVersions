@@ -1,4 +1,4 @@
-name: Update GOG Database
+name: Update Office Version's DB
 
 on:
   workflow_dispatch:
