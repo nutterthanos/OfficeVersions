@@ -42,7 +42,7 @@ async def main():
     start_revision = 0
     end_revision = 2000
     output_file = "valid_urls.txt"
-    max_concurrent_requests = 50
+    max_concurrent_requests = 100
 
     semaphore = asyncio.Semaphore(max_concurrent_requests)
 
