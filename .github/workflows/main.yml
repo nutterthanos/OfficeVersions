@@ -25,7 +25,7 @@ jobs:
       run: python ./versions.py  # Update the path accordingly
 
     - name: Run increment_productid.py script
-      run: python ./increment_productid.py
+      run: python ./increment_build.py
 
     - name: Commit and push changes - updated list
       run: |
