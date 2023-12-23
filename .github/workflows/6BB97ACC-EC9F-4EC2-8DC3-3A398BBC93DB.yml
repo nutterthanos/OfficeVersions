@@ -1,17 +1,17 @@
-name: Update Office Version's DB - 0F72FECE-4E67-432D-B9A8-2393C8522FB7
+name: Update Office Version's DB - 6BB97ACC-EC9F-4EC2-8DC3-3A398BBC93DB
 
 on:
   workflow_dispatch:
 
 jobs:
-  update_gog_db:
+  update_version_db:
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout Repository
       uses: actions/checkout@v3.5.2
       with:
-        ref: 0F72FECE-4E67-432D-B9A8-2393C8522FB7  # Set the branch name
+        ref: 6BB97ACC-EC9F-4EC2-8DC3-3A398BBC93DB  # Set the branch name
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -45,5 +45,5 @@ jobs:
         curl -X POST \
           -H "Accept: application/vnd.github.v3+json" \
           -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
-          https://api.github.com/repos/${{ github.repository }}/actions/workflows/0F72FECE-4E67-432D-B9A8-2393C8522FB7.yml/dispatches \
-          -d '{"ref":"0F72FECE-4E67-432D-B9A8-2393C8522FB7"}'
+          https://api.github.com/repos/${{ github.repository }}/actions/workflows/6BB97ACC-EC9F-4EC2-8DC3-3A398BBC93DB.yml/dispatches \
+          -d '{"ref":"6BB97ACC-EC9F-4EC2-8DC3-3A398BBC93DB"}'
