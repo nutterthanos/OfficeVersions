@@ -2,8 +2,6 @@ name: Update Office Version's DB
 
 on:
   workflow_dispatch:
-    branches:
-      - 133DBEB4-3C56-4C67-9D80-F240C53D7D20
 
 jobs:
   update_gog_db:
