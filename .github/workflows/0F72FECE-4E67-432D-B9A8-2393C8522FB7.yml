@@ -1,4 +1,4 @@
-name: Update Office Version's DB
+name: Update Office Version's DB - 0F72FECE-4E67-432D-B9A8-2393C8522FB7
 
 on:
   workflow_dispatch:
