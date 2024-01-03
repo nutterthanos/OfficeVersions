@@ -37,8 +37,8 @@ async def process_versions(session, semaphore, base_url, start_build, end_build,
 
 async def main():
     base_url = "http://officecdn.microsoft.com/sg/0F72FECE-4E67-432D-B9A8-2393C8522FB7/Office/Data/v64_{version}.cab"
-    start_build = 4700
-    end_build = 4800
+    start_build = 4800
+    end_build = 4900
     start_revision = 0
     end_revision = 25000
     output_file = "valid_urls.txt"
