@@ -21,7 +21,7 @@ async def process_versions(session, semaphore, base_url, start_build, end_build,
 
         for build in range(start_build, end_build + 1):
             for revision in range(start_revision, end_revision + 1):
-                version = f"15.0.{build}.{revision}"
+                version = f"16.0.{build}.{revision}"
                 url_with_version = base_url.format(version=version)
                 
                 task = fetch_url(session, semaphore, url_with_version)
@@ -37,8 +37,8 @@ async def process_versions(session, semaphore, base_url, start_build, end_build,
 
 async def main():
     base_url = "http://officecdn.microsoft.com/sg/7D632000-B182-4E05-A91D-763D282C24DE/Office/Data/v64_{version}.cab"
-    start_build = 6600
-    end_build = 6700
+    start_build = 0
+    end_build = 100
     start_revision = 0
     end_revision = 25000
     output_file = "valid_urls.txt"
