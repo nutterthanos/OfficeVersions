@@ -1,6 +1,6 @@
-http://officecdn.microsoft.com/sg/2C508370-A266-4CFC-8877-AF06FDEB0C24/Office/Data/v64_16.0.6965.2029.cab
-http://officecdn.microsoft.com/sg/2C508370-A266-4CFC-8877-AF06FDEB0C24/Office/Data/v64_16.0.6965.2035.cab
-http://officecdn.microsoft.com/sg/2C508370-A266-4CFC-8877-AF06FDEB0C24/Office/Data/v64_16.0.6965.2043.cab
-http://officecdn.microsoft.com/sg/2C508370-A266-4CFC-8877-AF06FDEB0C24/Office/Data/v64_16.0.6965.2051.cab
-http://officecdn.microsoft.com/sg/2C508370-A266-4CFC-8877-AF06FDEB0C24/Office/Data/v64_16.0.6965.2052.cab
-http://officecdn.microsoft.com/sg/2C508370-A266-4CFC-8877-AF06FDEB0C24/Office/Data/v64_16.0.6965.2053.cab
+http://officecdn.microsoft.com/sg/2C508370-A266-4CFC-8877-AF06FDEB0C24/Office/Data/v64_16.0.7070.2002.cab
+http://officecdn.microsoft.com/sg/2C508370-A266-4CFC-8877-AF06FDEB0C24/Office/Data/v64_16.0.7070.2005.cab
+http://officecdn.microsoft.com/sg/2C508370-A266-4CFC-8877-AF06FDEB0C24/Office/Data/v64_16.0.7070.2014.cab
+http://officecdn.microsoft.com/sg/2C508370-A266-4CFC-8877-AF06FDEB0C24/Office/Data/v64_16.0.7070.2019.cab
+http://officecdn.microsoft.com/sg/2C508370-A266-4CFC-8877-AF06FDEB0C24/Office/Data/v64_16.0.7070.2020.cab
+http://officecdn.microsoft.com/sg/2C508370-A266-4CFC-8877-AF06FDEB0C24/Office/Data/v64_16.0.7070.2022.cab
