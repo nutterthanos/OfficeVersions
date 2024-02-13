@@ -1,3 +1,2 @@
-http://officecdn.microsoft.com/sg/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/Office/Data/v64_16.0.8431.2079.cab
-http://officecdn.microsoft.com/sg/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/Office/Data/v64_16.0.8431.2094.cab
-http://officecdn.microsoft.com/sg/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/Office/Data/v64_16.0.8431.2107.cab
+http://officecdn.microsoft.com/sg/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/Office/Data/v64_16.0.8528.2139.cab
+http://officecdn.microsoft.com/sg/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/Office/Data/v64_16.0.8528.2147.cab
