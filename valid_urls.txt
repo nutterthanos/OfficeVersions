@@ -1,6 +1,4 @@
-http://officecdn.microsoft.com/sg/55C44C35-878E-4C43-83EE-B666BF4261A4/Office/Data/v64_16.0.7904.6926.cab
-http://officecdn.microsoft.com/sg/55C44C35-878E-4C43-83EE-B666BF4261A4/Office/Data/v64_16.0.7908.6925.cab
-http://officecdn.microsoft.com/sg/55C44C35-878E-4C43-83EE-B666BF4261A4/Office/Data/v64_16.0.7912.6925.cab
-http://officecdn.microsoft.com/sg/55C44C35-878E-4C43-83EE-B666BF4261A4/Office/Data/v64_16.0.7915.6925.cab
-http://officecdn.microsoft.com/sg/55C44C35-878E-4C43-83EE-B666BF4261A4/Office/Data/v64_16.0.7921.6925.cab
-http://officecdn.microsoft.com/sg/55C44C35-878E-4C43-83EE-B666BF4261A4/Office/Data/v64_16.0.7923.6925.cab
+http://officecdn.microsoft.com/sg/55C44C35-878E-4C43-83EE-B666BF4261A4/Office/Data/v64_16.0.8012.6925.cab
+http://officecdn.microsoft.com/sg/55C44C35-878E-4C43-83EE-B666BF4261A4/Office/Data/v64_16.0.8013.6925.cab
+http://officecdn.microsoft.com/sg/55C44C35-878E-4C43-83EE-B666BF4261A4/Office/Data/v64_16.0.8015.6925.cab
+http://officecdn.microsoft.com/sg/55C44C35-878E-4C43-83EE-B666BF4261A4/Office/Data/v64_16.0.8030.3000.cab
