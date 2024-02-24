@@ -1,9 +1,7 @@
-http://officecdn.microsoft.com/sg/5462EEE5-1E97-495B-9370-853CD873BB07/Office/Data/v64_16.0.15726.20000.cab
-http://officecdn.microsoft.com/sg/5462EEE5-1E97-495B-9370-853CD873BB07/Office/Data/v64_16.0.15726.20046.cab
-http://officecdn.microsoft.com/sg/5462EEE5-1E97-495B-9370-853CD873BB07/Office/Data/v64_16.0.15726.20070.cab
-http://officecdn.microsoft.com/sg/5462EEE5-1E97-495B-9370-853CD873BB07/Office/Data/v64_16.0.15726.20096.cab
-http://officecdn.microsoft.com/sg/5462EEE5-1E97-495B-9370-853CD873BB07/Office/Data/v64_16.0.15726.20140.cab
-http://officecdn.microsoft.com/sg/5462EEE5-1E97-495B-9370-853CD873BB07/Office/Data/v64_16.0.15726.20156.cab
-http://officecdn.microsoft.com/sg/5462EEE5-1E97-495B-9370-853CD873BB07/Office/Data/v64_16.0.15726.20164.cab
-http://officecdn.microsoft.com/sg/5462EEE5-1E97-495B-9370-853CD873BB07/Office/Data/v64_16.0.15726.20166.cab
-http://officecdn.microsoft.com/sg/5462EEE5-1E97-495B-9370-853CD873BB07/Office/Data/v64_16.0.15726.20174.cab
+http://officecdn.microsoft.com/sg/5462EEE5-1E97-495B-9370-853CD873BB07/Office/Data/v64_16.0.15831.20068.cab
+http://officecdn.microsoft.com/sg/5462EEE5-1E97-495B-9370-853CD873BB07/Office/Data/v64_16.0.15831.20078.cab
+http://officecdn.microsoft.com/sg/5462EEE5-1E97-495B-9370-853CD873BB07/Office/Data/v64_16.0.15831.20100.cab
+http://officecdn.microsoft.com/sg/5462EEE5-1E97-495B-9370-853CD873BB07/Office/Data/v64_16.0.15831.20122.cab
+http://officecdn.microsoft.com/sg/5462EEE5-1E97-495B-9370-853CD873BB07/Office/Data/v64_16.0.15831.20134.cab
+http://officecdn.microsoft.com/sg/5462EEE5-1E97-495B-9370-853CD873BB07/Office/Data/v64_16.0.15831.20142.cab
+http://officecdn.microsoft.com/sg/5462EEE5-1E97-495B-9370-853CD873BB07/Office/Data/v64_16.0.15831.20164.cab
