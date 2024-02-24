@@ -1,5 +1,5 @@
-http://officecdn.microsoft.com/sg/5440FD1F-7ECB-4221-8110-145EFAA6372F/Office/Data/v64_16.0.15505.20000.cab
-http://officecdn.microsoft.com/sg/5440FD1F-7ECB-4221-8110-145EFAA6372F/Office/Data/v64_16.0.15511.20000.cab
-http://officecdn.microsoft.com/sg/5440FD1F-7ECB-4221-8110-145EFAA6372F/Office/Data/v64_16.0.15513.20004.cab
-http://officecdn.microsoft.com/sg/5440FD1F-7ECB-4221-8110-145EFAA6372F/Office/Data/v64_16.0.15519.20000.cab
-http://officecdn.microsoft.com/sg/5440FD1F-7ECB-4221-8110-145EFAA6372F/Office/Data/v64_16.0.15522.20000.cab
+http://officecdn.microsoft.com/sg/5440FD1F-7ECB-4221-8110-145EFAA6372F/Office/Data/v64_16.0.15601.20028.cab
+http://officecdn.microsoft.com/sg/5440FD1F-7ECB-4221-8110-145EFAA6372F/Office/Data/v64_16.0.15606.20002.cab
+http://officecdn.microsoft.com/sg/5440FD1F-7ECB-4221-8110-145EFAA6372F/Office/Data/v64_16.0.15615.20000.cab
+http://officecdn.microsoft.com/sg/5440FD1F-7ECB-4221-8110-145EFAA6372F/Office/Data/v64_16.0.15619.20000.cab
+http://officecdn.microsoft.com/sg/5440FD1F-7ECB-4221-8110-145EFAA6372F/Office/Data/v64_16.0.15629.20058.cab
