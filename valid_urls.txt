@@ -1,2 +1,2 @@
-http://officecdn.microsoft.com/sg/55336B82-A18D-4DD6-B5F6-9E5095C314A6/Office/Data/v64_16.0.16924.20180.cab
-http://officecdn.microsoft.com/sg/55336B82-A18D-4DD6-B5F6-9E5095C314A6/Office/Data/v64_16.0.16924.20202.cab
+http://officecdn.microsoft.com/sg/55336B82-A18D-4DD6-B5F6-9E5095C314A6/Office/Data/v64_16.0.17029.20140.cab
+http://officecdn.microsoft.com/sg/55336B82-A18D-4DD6-B5F6-9E5095C314A6/Office/Data/v64_16.0.17029.20178.cab
