@@ -1,7 +1,5 @@
-http://officecdn.microsoft.com/sg/834504CC-DC55-4C6D-9E71-E024D0253F6D/Office/Data/v64_16.0.7571.2002.cab
-http://officecdn.microsoft.com/sg/834504CC-DC55-4C6D-9E71-E024D0253F6D/Office/Data/v64_16.0.7571.2004.cab
-http://officecdn.microsoft.com/sg/834504CC-DC55-4C6D-9E71-E024D0253F6D/Office/Data/v64_16.0.7571.2006.cab
-http://officecdn.microsoft.com/sg/834504CC-DC55-4C6D-9E71-E024D0253F6D/Office/Data/v64_16.0.7571.2042.cab
-http://officecdn.microsoft.com/sg/834504CC-DC55-4C6D-9E71-E024D0253F6D/Office/Data/v64_16.0.7571.2051.cab
-http://officecdn.microsoft.com/sg/834504CC-DC55-4C6D-9E71-E024D0253F6D/Office/Data/v64_16.0.7571.2058.cab
-http://officecdn.microsoft.com/sg/834504CC-DC55-4C6D-9E71-E024D0253F6D/Office/Data/v64_16.0.7571.2066.cab
+http://officecdn.microsoft.com/sg/834504CC-DC55-4C6D-9E71-E024D0253F6D/Office/Data/v64_16.0.7668.2011.cab
+http://officecdn.microsoft.com/sg/834504CC-DC55-4C6D-9E71-E024D0253F6D/Office/Data/v64_16.0.7668.2016.cab
+http://officecdn.microsoft.com/sg/834504CC-DC55-4C6D-9E71-E024D0253F6D/Office/Data/v64_16.0.7668.2027.cab
+http://officecdn.microsoft.com/sg/834504CC-DC55-4C6D-9E71-E024D0253F6D/Office/Data/v64_16.0.7668.2033.cab
+http://officecdn.microsoft.com/sg/834504CC-DC55-4C6D-9E71-E024D0253F6D/Office/Data/v64_16.0.7668.2041.cab
